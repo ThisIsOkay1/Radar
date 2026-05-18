@@ -1,5 +1,4 @@
 {
-
   "G1_1": [
     {
       "Name": "EncampmentFront",
@@ -32,8 +31,8 @@
 			["*", "A", "A",  "A", "A", "A", "A"],
 			["C", "*", "*",  "*", "*", "*", "*"]
 		  ]
-	},
-	{
+	  },
+	  {
       "Name": "Metadata/Terrain/Woods/Slash/HagWitchArena_02.tdt",
       "ExpectedCount": 1,
       "DisplayName": "Beira of the Rotten (10% Cold Res)"
@@ -170,8 +169,8 @@
 			["A", "B", "C", "A"],
 			["*", "*", "*", "*"]
 		  ]
-	},
-	{
+	  },
+	  {
 		  "Name": "Rust 2",
 		  "DisplayName": "Rust 2",
 		  "TileAliases": {
@@ -184,8 +183,8 @@
 			["A", "B", "B", "A"],
 			["A", "*", "*", "*"]
 		  ]
-	},
-  {
+	  },
+    {
 		  "Name": "Metadata/Terrain/Woods/RedvaleRiver/TMO_Dupe/CcSM_01.tdt",
 		  "DisplayName": "Rust 4",
 		  "TileAliases": {
@@ -208,8 +207,8 @@
 			["C","C","C","*", "*", "*"],
 			["C","C","C","*", "*", "*"]
 		  ]
-	},
-	{
+	  },
+	  {
 		  "Name": "Rust 5",
 		  "DisplayName": "Rust 5",
 		  "TileAliases": {
@@ -224,8 +223,8 @@
 			["B","B","B","*", "*", "*"],
 			["B","B","B","*", "*", "*"]
 		  ]
-	},
-  {
+	  },
+    {
 		  "Name": "Rust 6",
 		  "DisplayName": "Rust 6",
 		  "TileAliases": {
@@ -240,8 +239,8 @@
 			["B","B","B","*", "*", "*"],
 			["B","B","B","*", "*", "*"]
 		  ]
-	},
-  {
+	  },
+    {
 		  "Name": "Rust 9",
 		  "DisplayName": "Rust 9",
 		  "TileAliases": {
@@ -256,8 +255,8 @@
 			["B","B","B","A", "A", "A"],
 			["C","C","C","C", "C", "C"]
 		  ]
-	},
-  {
+	  },
+    {
 		  "Name": "Rust 10",
 		  "DisplayName": "Rust 10",
 		  "TileAliases": {
@@ -269,8 +268,8 @@
 			["B","*", "B", "*"],
 			["*","A", "*", "*"]
 		  ]
-	},
-  {
+	  },
+    {
 		  "Name": "Rust 12",
 		  "DisplayName": "Rust 12",
 		  "TileAliases": {
@@ -283,8 +282,8 @@
 			["C", "*", "*", "A", "*"],
 			["*", "C", "B", "*", "*"]
 		  ]
-	},
-  {
+	  },
+    {
 		  "Name": "Rust 13",
 		  "DisplayName": "Rust 13",
 		  "TileAliases": {
@@ -299,8 +298,8 @@
 			["B","B","B","*","*","*","*"],
 			["B","B","B","*","*","*","*"]
 		  ]
-	},
-  {
+	  },
+    {
 		  "Name": "Rust 15",
 		  "DisplayName": "Rust 15",
 		  "TileAliases": {
@@ -315,8 +314,8 @@
 			["B","B","B","A", "A", "A"],
 			["*","*","*","*", "*", "*"]
 		  ]
-	},
-	{
+	  },
+	  {
       "Name": "Metadata/Terrain/Woods/AreaTransitions/redvale_transition_02_redvale.tdt",
       "ExpectedCount": 1,
       "DisplayName": "The Grelwood"
@@ -1373,7 +1372,7 @@
   ],
 
   "G3_5": [
-	{
+	  {
       "Name": "Metadata/Terrain/Jungle/JungleExterior/AreaTransitions/ChimeralJungle_to_ChaosTemple.tdt",
       "ExpectedCount": 1,
       "DisplayName": "The Temple of Chaos"
